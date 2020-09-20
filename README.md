@@ -1,6 +1,12 @@
-# Modpack for OxygenOS Pie
+# Modpack for OxygenOS / Android Q
 
-This module disables a buch of Google & OnePlus system apps and adds some cool features. Some Google Play services will also get disabled on boot.
+## Features
+- Replaced OnePlus' Phone, Messages(SMS), and Contacts with Googles apps
+- Enabled Google Photos Photo backup
+- Replaced Roboto and OnePlus Slate fonts with Google Product Sans
+- The ringtones, notifications and alarm sounds will be replaced with some basic ones
+- iOS 13 Emojis
+- Some Google Play Services will be disabled on boot (see below)
 
 ## Currently disabled apps: (* Install via PlayStore if needed)
 
@@ -10,6 +16,7 @@ This module disables a buch of Google & OnePlus system apps and adds some cool f
 -Basic Daydreams
 -Bookmark Provider
 -OnePlus Cards
+-OnePlus CellBroadcastReceiver
 -Google Chrome (*)
 -Desk Clock
 -Google Drive (*)
@@ -34,15 +41,6 @@ This module disables a buch of Google & OnePlus system apps and adds some cool f
 -Android Talkback (*)
 -Play Videos (*)
 
-OnePlus CellBroadcastReceiver
-
-## Added features
-
-- Enabled Google Photos unlimited-free Photo backup (until 2021)
-- Replaced Roboto and OnePlus Slate fonts with Google Product Sans
-- The ringtones, notifications and alarm sounds will be replaced with some basic one that I picked
-- iOS 13 Emojis
-
 ## Disabled Google Play Services functions
 
 -com.google.android.gms.analytics.service.AnalyticsService
@@ -53,5 +51,5 @@ OnePlus CellBroadcastReceiver
 
 ## Changelog
 
-**v4**
+**v1**
  *Added iOS Emojis
