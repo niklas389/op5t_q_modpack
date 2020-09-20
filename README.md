@@ -7,6 +7,7 @@
 - The ringtones, notifications and alarm sounds will be replaced with some basic ones
 - iOS 13 Emojis
 - Some Google Play Services will be disabled on boot (see below)
+- Google Pixel Bootanimation
 
 ## Currently disabled apps: (* Install via PlayStore if needed)
 
@@ -51,5 +52,3 @@
 
 ## Changelog
 
-**v1**
- *Added iOS Emojis
