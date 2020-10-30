@@ -1,6 +1,6 @@
 # Modpack for OxygenOS / Android Q
 
-    [>>DOWNLOAD<<](https://github.com/niklas389/op5t_q_modpack/releases/latest)
+    [DOWNLOAD](https://github.com/niklas389/op5t_q_modpack/releases/latest "Latest ZIP")
 
 ## Features
 - Replaced OnePlus' Phone, Messages(SMS), and Contacts with Googles apps
